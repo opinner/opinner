@@ -1,7 +1,8 @@
+Hi, I'm Ole
 
-
-
-📖 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page) 
+See some work of mine like
+- 📃 my most recent paper, [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)
+- 📖 a public Wiki, [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page), which contains information about scientific programming, Gender & Diversity and general a lot I find useful during my PhD
 
 <!--
 ## Hi there 👋
