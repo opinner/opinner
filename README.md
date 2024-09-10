@@ -1,7 +1,7 @@
 
 
 
-📖 [https://ocean.miraheze.org/wiki/Main_Page](OceanAtmosWiki) 
+📖 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page) 
 
 <!--
 ## Hi there 👋
