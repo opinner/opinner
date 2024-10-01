@@ -6,7 +6,7 @@ See some work of mine like
 - 🇦🇶 [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)  
    my most recent paper, published in *Ocean Science*. 
 - 📚 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page), a public Wiki with information about scientific programming, Gender & Diversity and general a lot of the things I find useful.
-- 🎥 [Oceanography in a Tea Cup](https://www.youtube.com/watch?v=pPAmPI1otgs), a scientific short film about the topic of my Phd thesis. 
+- 🎥 [Oceanography in a Tea Cup](https://www.youtube.com/watch?v=pPAmPI1otgs), a scientific short film introducing the topic of my Phd thesis. 
 - ⚖️ the Task Group "Gender & Diversity" in the [TRR 181 project – Energy Transfers in Atmosphere and Ocean](https://www.trr-energytransfers.de/about-us).
 
 <!--
