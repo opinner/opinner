@@ -7,6 +7,7 @@ See some work of mine like
    my most recent paper, published in *Ocean Science*. 
 - 📚 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page)  
    a public Wiki, which contains information about scientific programming, Gender & Diversity and general a lot I find useful during my PhD
+- 🎥 [Oceanography in a Tea Cup](https://www.youtube.com/watch?v=pPAmPI1otgs), a scientic short film about the topic of my Phd thesis. 
 - ⚖️ the Task Group "Gender & Diversity" in the [TRR 181 project – Energy Transfers in Atmosphere and Ocean](https://www.trr-energytransfers.de/about-us).
 
 <!--
