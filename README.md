@@ -3,9 +3,9 @@ Hi, I'm Ole.
 I am a PhD student in physical oceanography at [AWI](https://www.awi.de/en/about-us/organisation/staff/single-view/ole-pinner.html), studying the connection of turbulence and the export of Antarctic Bottom Water. 
 
 See some work of mine like
-- 📃 [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)  
+- 🇦🇶 [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)  
    my most recent paper, published in *Ocean Science*. 
-- 📖 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page)  
+- 📚 [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page)  
    a public Wiki, which contains information about scientific programming, Gender & Diversity and general a lot I find useful during my PhD
 
 <!--
