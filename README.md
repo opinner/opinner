@@ -10,6 +10,8 @@ See some work of mine like
 - ⚖️ the Task Group "Gender & Diversity" in the [TRR 181 project – Energy Transfers in Atmosphere and Ocean](https://www.trr-energytransfers.de/about-us).
 - 🕸️ [OceanAtmosWiki](https://ocean.miraheze.org/wiki/Main_Page), a public Wiki (although quite sparse) with information about scientific programming, Gender & Diversity and general a lot of the things I find useful.
 
+Write me a message at [opinner/discussions](https://github.com/opinner/opinner/discussions).
+
 <!--
 ## Hi there 👋
 **opinner/opinner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
