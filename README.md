@@ -5,7 +5,8 @@ I am a PhD student in physical oceanography at [AWI](https://www.awi.de/en/about
 See some work of mine like
 - 🇦🇶 [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)  
    my most recent paper, published in *Ocean Science*.
-- 🌐 [Spilhaus map projection](https://github.com/opinner/spilhaus), to plot the oceans as one continous world ocean.
+- 🌐 [Spilhaus map projection](https://github.com/opinner/spilhaus), for a map of one continous world ocean.
+- ⛰️ Plot arbitrary topobathymetric data as a [beautiful ridge map](https://github.com/opinner/ridge_map).
 - 📚 [Good Scientific Practice - in Practice](https://github.com/opinner/Good-Scientific-Practice-in-Practice) A curated collection of resources, ranging from basic to very specific to climate sciences/oceanography 
 - 🎥 [Oceanography in a Tea Cup](https://www.youtube.com/watch?v=pPAmPI1otgs), a scientific short film introducing the topic of my Phd thesis. 
 - ⚖️ the Task Group "Gender & Diversity" in the [TRR 181 project – Energy Transfers in Atmosphere and Ocean](https://www.trr-energytransfers.de/about-us).
