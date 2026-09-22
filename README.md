@@ -1,10 +1,9 @@
 Hi, I'm Ole.
 
-I am a PhD student in physical oceanography at [AWI](https://www.awi.de/en/about-us/organisation/staff/single-view/ole-pinner.html), studying the connection of turbulence to export of Antarctic Bottom Water. 
+I am a sea-going physical oceanographer, previously at [AWI](https://www.awi.de/en/about-us/organisation/staff/single-view/ole-pinner.html), now looking for a postdoc
 
 See some work of mine like
-- 🇦🇶 [Internal-wave-induced dissipation rates in the Weddell Sea Bottom Water gravity current](https://doi.org/10.5194/egusphere-2024-2444)  
-   my most recent paper, published in *Ocean Science*, and the associated [Code to Pinner et al., 2025](https://github.com/opinner/Code_to_Pinner_et_al_2025).
+- 🇦🇶 how waves and turbulence is connected to the export of Antarctic Bottom Water in [Pinner et al., 2025](https://doi.org/10.5194/egusphere-2024-2444), with the associated [research code](https://github.com/opinner/Code_to_Pinner_et_al_2025).
 - 🌐 [Spilhaus map projection](https://github.com/opinner/spilhaus), for a map of one continous world ocean.
 - ⛰️ [Ridge maps](https://github.com/opinner/ridge_map), a beautiful visualization of arbitrary topobathymetric data, even at high a latitudes
 - 📚 [Good Scientific Practice - in Practice](https://github.com/opinner/Good-Scientific-Practice-in-Practice) A curated collection of resources, ranging from basic to very specific to climate sciences/oceanography 
